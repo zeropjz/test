@@ -13,6 +13,9 @@ public class TestGItController {
           System.out.println("git分支测试2!");
          System.out.println("git分支测试3!");
         System.out.println("git分支测试4!");
+
+
+        System.out.println("git分支测试5 --分支合并!");
     }
 
 
