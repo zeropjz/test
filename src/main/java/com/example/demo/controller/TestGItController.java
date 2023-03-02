@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestGItController {
 
     @RequestMapping("/test/git")
-    public void gitTest() {
+    public void gitTest1() {
         System.out.println("git" +"test1");
     }
 }
