@@ -17,4 +17,10 @@ public class TestGItController {
     public void gitTest3() {
         System.out.println("git" +"test3");
     }
+    public void gitTest4() {
+        System.out.println("git" +"test4");
+    }
+    public void gitTest5() {
+        System.out.println("git" +"test5");
+    }
 }
