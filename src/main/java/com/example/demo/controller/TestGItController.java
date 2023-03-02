@@ -22,4 +22,7 @@ public class TestGItController {
     public void gitTest6() {
         System.out.println("git" +"test6");
     }
+    public void gitTest7() {
+        System.out.println("git" +"test7");
+    }
 }
