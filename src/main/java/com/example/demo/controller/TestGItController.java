@@ -10,4 +10,7 @@ public class TestGItController {
     public void gitTest1() {
         System.out.println("git" +"test1");
     }
+    public void gitTest2() {
+        System.out.println("git" +"test2");
+    }
 }
