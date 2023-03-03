@@ -8,22 +8,7 @@ public class TestGItController {
 
     @RequestMapping("/test/git")
     public void gitTest1() {
-        System.out.println("git" +"test1");
-    }
-    public void gitTest2() {
-        System.out.println("git" +"test2");
+        System.out.println("git1111");
     }
 
-    public void gitTest3() {
-        System.out.println("git" +"test3");
-    }
-    public void gitTest4() {
-        System.out.println("git" +"test4");
-    }
-    public void gitTest5() {
-        System.out.println("git" +"test5");
-    }
-    public void gitTest7() {
-        System.out.println("git" +"test7");
-    }
 }
